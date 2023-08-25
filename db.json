@@ -1,0 +1,55 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode",
+      "password": "typicode",
+      "mobile": "typicode"
+    }
+  ],
+  "prodcuts": [
+    {
+      "id": 1,
+      "img1": "some comment",
+      "img2": "some comment",
+      "img3": "some comment",
+      "img4": "some comment",
+      "img5": "some comment",
+      "prodcuts_name": "some comment",
+      "prodcuts_catagary": "some comment",
+      "orginal_price": 1,
+      "seling_price": 1,
+      "discount":2,
+      "rating":{
+        "rate":4.5,
+        "count":345 
+      }, 
+      "size":"m",
+      "seller-name":"baggit india pvt ltd"
+    }
+  ],
+  "cart": [
+
+  ],
+// buy now deatail 
+  "buy_deatil": [
+    {
+      "contact":{
+        "name":"user",
+        "mobile":"+91 9876543210"
+      },
+      "address":{
+        "pincode":123456,
+        "address":"house no , building , street , area",
+        "town":"katragam",
+        "city":"surat",
+        "state":"gujart"
+      },
+      "payment":{
+        // add payment option 
+      }
+
+    }
+  ]
+}
