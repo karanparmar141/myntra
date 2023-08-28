@@ -6,11 +6,18 @@
       "email": "typicode",
       "password": "typicode",
       "mobile": "typicode"
+    },
+    {
+      "name": "tirth",
+      "email": "aksharcreation8@gmail.com",
+      "password": "63546457ghfy",
+      "id": 2
     }
   ],
   "prodcuts": [
     {
       "id": 1,
+
       "img1": "img/p1(1).webp",
       "img2": "img/p1(2).webp",
       "img3": "img/p1(3).webp",
@@ -102,25 +109,24 @@
       "size":"m"
     }
   ],
-  "cart": [
 
-  ],
+  "cart": [],
+
   "buy_deatil": [
     {
-      "contact":{
-        "name":"user",
-        "mobile":"+91 9876543210"
+      "contact": {
+        "name": "user",
+        "mobile": "+91 9876543210"
       },
-      "address":{
-        "pincode":123456,
-        "address":"house no , building , street , area",
-        "town":"katragam",
-        "city":"surat",
-        "state":"gujart"
+      "address": {
+        "pincode": 123456,
+        "address": "house no , building , street , area",
+        "town": "katragam",
+        "city": "surat",
+        "state": "gujart"
       },
-      "payment":{
-        
-      }
+
+      "payment": {}
 
     }
   ]
