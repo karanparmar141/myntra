@@ -17,25 +17,101 @@
   "prodcuts": [
     {
       "id": 1,
-      "img1": "some comment",
-      "img2": "some comment",
-      "img3": "some comment",
-      "img4": "some comment",
-      "img5": "some comment",
-      "prodcuts_name": "some comment",
-      "prodcuts_catagary": "some comment",
-      "orginal_price": 1,
-      "seling_price": 1,
-      "discount": 2,
-      "rating": {
-        "rate": 4.5,
-        "count": 345
-      },
-      "size": "m",
-      "seller-name": "baggit india pvt ltd"
+
+      "img1": "img/p1(1).webp",
+      "img2": "img/p1(2).webp",
+      "img3": "img/p1(3).webp",
+      "img4": "img/p1(4).webp",
+      "img5": "img/p1(5).webp",
+      "prodcuts_name": "Men BEESLEY 4.0 Printed Slider",
+      "prodcuts_catagary": "U.S. Polo Assn. Flip Flops",
+      "orginal_price": 719,
+      "seling_price": 1699,
+      "discount":"55%",
+      "rating":{
+        "rate":4.5,
+        "count":2200
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 2,
+      "img1": "img/p2(1).avif",
+      "img2": "img/p2(2).webp",
+      "img3": "img/p2(3).webp",
+      "img4": "img/p2(4).avif",
+      "img5": "img/p2(5).webp",
+      "prodcuts_name": "HRX by Hrithik Roshan",
+      "prodcuts_catagary": "HRX by Hrithik Roshan Flip Flops",
+      "orginal_price": 699,
+      "seling_price": 1999,
+      "discount":"1300off",
+      "rating":{
+        "rate":3.9,
+        "count":211
+      }, 
+      "size":"m"
+    },
+    {
+      
+        "id": 3,
+        "img1": "img/p3(1).webp",
+        "img2": "img/p3(2).avif",
+        "img3": "img/p3(3).avif",
+        "img4": "img/p3(4).webp",
+        "img5": "img/p3(5).webp",
+        "prodcuts_name": "Crocs",
+        "prodcuts_catagary": "Crocs Flip Flops",
+        "orginal_price": 4495,
+        "seling_price": 2247,
+        "discount":"50%off",
+        "rating":{
+          "rate":4.4,
+          "count":2900
+        }, 
+        "size":"m"
+      
+    },
+    {
+      "id": 4,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "Nike",
+      "prodcuts_catagary": "Nike Flip Flops",
+      "orginal_price": 5000,
+      "seling_price": 2997,
+      "discount":"50%off",
+      "rating":{
+        "rate":4.4,
+        "count":161
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 5,
+      "img1": "img/p5(1).avif",
+      "img2": "img/p5(2).webp",
+      "img3": "img/p5(3).webp",
+      "img4": "img/p5(4).webp",
+      "img5": "img/p5(5).avif",
+      "prodcuts_name": "U.S. Polo Assn.",
+      "prodcuts_catagary": "U.S. Polo Assn. Flip Flops",
+      "orginal_price": 1039,
+      "seling_price": 1599,
+      "discount":"50%off",
+      "rating":{
+        "rate":4.4,
+        "count":999
+      }, 
+      "size":"m"
     }
   ],
+
   "cart": [],
+
   "buy_deatil": [
     {
       "contact": {
@@ -49,7 +125,9 @@
         "city": "surat",
         "state": "gujart"
       },
+
       "payment": {}
+
     }
   ]
 }
