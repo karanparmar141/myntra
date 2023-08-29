@@ -6,16 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>myntra : HOME</title>
     <style>
-        @import url(../StyleSheet/bootstrap.min.css);
-        @import url(../StyleSheet/bootstrap-icons.min.css);
-        @import url(../StyleSheet/style.css);
+      @import url(../StyleSheet/font_style.css);
+      @import url(../StyleSheet/bootstrap-icons.css);
+      @import url(../StyleSheet/bootstrap.min.css);
+      @import url(../StyleSheet/style.css);
     </style>
 </head>
 <body>
     <!-- header  -->
     <header>
-        <nav class="navbar navbar-expand-lg bg-light">
-            <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg py-3 bg-light">
+            <div class="container">
               <a class="navbar-brand" href="#">myntra</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -23,38 +24,31 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2x">
                   <li class="nav-item">
-                    <a class="nav-link text-uppercase" aria-current="page" href="#">men</a>
+                    <a class="nav-link text-uppercase text-dark" aria-current="page" href="#">men</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link text-uppercase" href="#">women</a>
+                    <a class="nav-link text-uppercase text-dark" href="#">women</a>
                   </li>
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle text-uppercase" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      kids
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">Action</a></li>
-                      <li><a class="dropdown-item" href="#">Another action</a></li>
-                      <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
+                  <li class="nav-item">
+                    <a class="nav-link text-uppercase text-dark">kids</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link disabled text-uppercase">HOME & living</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link text-uppercase">beauty</a>
+                    <a class="nav-link text-uppercase text-dark">beauty</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link text-uppercase">studio</a>
+                    <a class="nav-link text-uppercase text-dark">studio</a>
                   </li>
                 </ul>
-                <form class="d-flex" role="search">
-                  <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <form class="d-flex col-4">
+                  <input class="form-control" type="search" placeholder="Search" aria-label="Search">
                 </form>
-                <form class="row">
-                    <i class="bi bi-person"></i>
-                    <button><i class="bi bi-person"></i></button>
+                <form class="d-flex">
+                    <a href="#" class="border-0 mx-3 bg-none text-dark"><i class="bi bi-person fs-5"></i></a>
+                    <a href="#" class="border-0 mx-3 bg-none text-dark"><i class="bi bi-heart fs-5"></i></a>
+                    <a href="#" class="border-0 mx-3 bg-none text-dark"><i class="bi bi-bag fs-5"></i></a>
                 </form>
               </div>
             </div>
