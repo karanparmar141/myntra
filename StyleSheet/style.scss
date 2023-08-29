@@ -3,6 +3,18 @@
     padding: 0px;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Assistant';
+}
+:root{
+    --bs-light-rgb: 235, 236, 237;
+}
 a{
     text-decoration: none;
+}
+img{width: 100%;}
+.fs-13{font-size: 13px;}
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important
 }
