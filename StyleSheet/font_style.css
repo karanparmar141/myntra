@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Assistant';
-    src: url('Assistant-ExtraLight.woff2') format('woff2'),
-        url('Assistant-ExtraLight.woff') format('woff');
+    src: url('../font/Assistant-ExtraLight.woff2') format('woff2'),
+        url('../font/Assistant-ExtraLight.woff') format('woff');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Assistant';
-    src: url('Assistant-ExtraLight.woff2') format('woff2'),
-        url('Assistant-ExtraLight.woff') format('woff');
+    src: url('../font/Assistant-ExtraLight.woff2') format('woff2'),
+        url('../font/Assistant-ExtraLight.woff') format('woff');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'Assistant';
-    src: url('Assistant-Light.woff2') format('woff2'),
-        url('Assistant-Light.woff') format('woff');
+    src: url('../font/Assistant-Light.woff2') format('woff2'),
+        url('../font/Assistant-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'Assistant';
-    src: url('Assistant-SemiBold.woff2') format('woff2'),
-        url('Assistant-SemiBold.woff') format('woff');
+    src: url('../font/Assistant-SemiBold.woff2') format('woff2'),
+        url('../font/Assistant-SemiBold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: 'Assistant';
-    src: url('Assistant-Regular.woff2') format('woff2'),
-        url('Assistant-Regular.woff') format('woff');
+    src: url('../font/Assistant-Regular.woff2') format('woff2'),
+        url('../font/Assistant-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -45,8 +45,8 @@
 
 @font-face {
     font-family: 'Assistant';
-    src: url('Assistant-ExtraBold.woff2') format('woff2'),
-        url('Assistant-ExtraBold.woff') format('woff');
+    src: url('../font/Assistant-ExtraBold.woff2') format('woff2'),
+        url('../font/Assistant-ExtraBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -54,8 +54,8 @@
 
 @font-face {
     font-family: 'Assistant';
-    src: url('Assistant-Bold.woff2') format('woff2'),
-        url('Assistant-Bold.woff') format('woff');
+    src: url('../font/Assistant-Bold.woff2') format('woff2'),
+        url('../font/Assistant-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -63,8 +63,8 @@
 
 @font-face {
     font-family: 'Assistant';
-    src: url('Assistant-Medium.woff2') format('woff2'),
-        url('Assistant-Medium.woff') format('woff');
+    src: url('../font/Assistant-Medium.woff2') format('woff2'),
+        url('../font/Assistant-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
