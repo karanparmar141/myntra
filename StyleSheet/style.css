@@ -20,8 +20,8 @@ img {
   width: 100%;
 }
 
-.fs-13 {
-  font-size: 13px;
+.fs-14 {
+  font-size: 14px;
 }
 
 .bg-light {
@@ -29,6 +29,19 @@ img {
   background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.py-100 {
+  padding: 100px 0px;
+}
+
+.fixed {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.ls-2 {
+  letter-spacing: 2px;
 .pink {
   background-color: #efadce;
 }/*# sourceMappingURL=style.css.map */
