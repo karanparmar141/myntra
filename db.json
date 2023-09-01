@@ -18,16 +18,16 @@
     {
       "id": 1,
 
-      "img1": "img/p1(1).webp",
-      "img2": "img/p1(2).webp",
-      "img3": "img/p1(3).webp",
-      "img4": "img/p1(4).webp",
-      "img5": "img/p1(5).webp",
-      "prodcuts_name": "Men BEESLEY 4.0 Printed Slider",
-      "prodcuts_catagary": "U.S. Polo Assn. Flip Flops",
-      "orginal_price": 719,
-      "seling_price": 1699,
-      "discount":"55%",
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15068346/2021/8/25/16e83cc4-5e41-432b-80ea-93cac384d04c1629892516252-GANT-Men-Blue-Black-Colourblocked-Puffer-Jacket-121629892515-1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15068346/2021/8/25/2e0f11c2-4963-429b-918b-4c93044682481629892516230-GANT-Men-Blue-Black-Colourblocked-Puffer-Jacket-121629892515-2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15068346/2021/8/25/bc32fd59-0b77-4ad2-b092-0b0ef8e600851629892516208-GANT-Men-Blue-Black-Colourblocked-Puffer-Jacket-121629892515-3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15068346/2021/8/25/5fb0ec2d-ea5c-41f6-af80-cdcdb32b0b451629892516186-GANT-Men-Blue-Black-Colourblocked-Puffer-Jacket-121629892515-4.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15068346/2021/8/25/bc32fd59-0b77-4ad2-b092-0b0ef8e600851629892516208-GANT-Men-Blue-Black-Colourblocked-Puffer-Jacket-121629892515-3.jpg",
+      "prodcuts_name": "gant",
+      "prodcuts_catagary": "jacket",
+      "orginal_price":22999 ,
+      "seling_price":  9199,
+      "discount":"60% off",
       "rating":{
         "rate":4.5,
         "count":2200
@@ -43,8 +43,8 @@
       "img5": "img/p2(5).webp",
       "prodcuts_name": "HRX by Hrithik Roshan",
       "prodcuts_catagary": "HRX by Hrithik Roshan Flip Flops",
-      "orginal_price": 699,
-      "seling_price": 1999,
+      "orginal_price": 1999,
+      "seling_price": 699,
       "discount":"1300off",
       "rating":{
         "rate":3.9,
@@ -99,8 +99,8 @@
       "img5": "img/p5(5).avif",
       "prodcuts_name": "U.S. Polo Assn.",
       "prodcuts_catagary": "U.S. Polo Assn. Flip Flops",
-      "orginal_price": 1039,
-      "seling_price": 1599,
+      "orginal_price": 1599,
+      "seling_price": 1399,
       "discount":"50%off",
       "rating":{
         "rate":4.4,
