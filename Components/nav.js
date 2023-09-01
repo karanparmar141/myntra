@@ -17,7 +17,7 @@ const nav=()=>{
             <a class="nav-link text-uppercase text-dark fs-14 fw-bold me-1" href="/Pages/kids.html">kids</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled text-uppercase fs-14 fw-bold me-1" href="/Pages/homes_living.html">HOME & living</a>
+            <a class="nav-link text-uppercase fs-14 fw-bold me-1" href="/Pages/homes_living.html">HOME & living</a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-uppercase text-dark fs-14 fw-bold me-1" href="/Pages/beauty.html">beauty</a>

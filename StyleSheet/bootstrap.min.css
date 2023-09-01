@@ -2600,6 +2600,7 @@ textarea.form-control-lg {
     width: 1em;
     height: 1em;
     margin-top: .25em;
+    padding: 8px;
     vertical-align: top;
     background-color: #fff;
     background-repeat: no-repeat;
@@ -2627,14 +2628,14 @@ textarea.form-control-lg {
 }
 
 .form-check-input:focus {
-    border-color: #86b7fe;
+    border-color: rgba(255, 63, 108, 0.776);
     outline: 0;
-    box-shadow: 0 0 0 .25rem rgba(13, 110, 253, .25)
+    box-shadow: 0 0 0 .25rem rgba(255, 63, 108, 0.25)
 }
 
 .form-check-input:checked {
-    background-color: #0d6efd;
-    border-color: #0d6efd
+    background-color: #ff3f6c;
+    border-color: #ff3f6c
 }
 
 .form-check-input:checked[type=checkbox] {
