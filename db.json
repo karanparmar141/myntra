@@ -61,7 +61,7 @@
         "img4": "img/p3(4).webp",
         "img5": "img/p3(5).webp",
         "prodcuts_name": "Crocs",
-        "prodcuts_catagary": "Crocs Flip Flops",
+        "prodcuts_catagary": "Flip_Flops",
         "orginal_price": 4495,
         "seling_price": 2247,
         "discount":"50%off",
@@ -105,6 +105,198 @@
       "rating":{
         "rate":4.4,
         "count":999
+      }, 
+      "size":"m"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 6,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "Nike",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Nike Flip Flops",
+      "orginal_price": 5000,
+      "seling_price": 2997,
+      "discount":"50%off",
+      "rating":{
+        "rate":4.4,
+        "count":161
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 7,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "khushal k",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "kurta with palazzos and dupatta",
+      "orginal_price": 5449,
+      "seling_price": 1416,
+      "discount":"74%off",
+      "rating":{
+        "rate":4.2,
+        "count":"9k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 8,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "singni",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta Set",
+      "orginal_price": 4999,
+      "seling_price": 1149,
+      "discount":"77%off",
+      "rating":{
+        "rate":4.1,
+        "count":"7.3k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 9,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "varanga",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Yoke Design Kurta with Trousers With Dupatta",
+      "orginal_price": 5999,
+      "seling_price": 1619,
+      "discount":"73%off",
+      "rating":{
+        "rate":4,
+        "count":"2.6k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 10,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "anayna",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Printed Kurta with Trousers",
+      "orginal_price": 3098,
+      "seling_price": 1146,
+      "discount":"63%off",
+      "rating":{
+        "rate":4.5,
+        "count":"4k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 11,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "varanga",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta Set",
+      "orginal_price": 5999,
+      "seling_price": 1379,
+      "discount":"77%off",
+      "rating":{
+        "rate":4.2,
+        "count":"3.5k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 12,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "Indo Era",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta with Trousers With Dupatta",
+      "orginal_price": 6999,
+      "seling_price": 1679,
+      "discount":"76%off",
+      "rating":{
+        "rate":4.2,
+        "count":"3k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 12,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "Indo Era",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta with Trousers With Dupatta",
+      "orginal_price": 6999,
+      "seling_price": 1679,
+      "discount":"76%off",
+      "rating":{
+        "rate":4.2,
+        "count":"3k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 13,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "KALINI",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta Set",
+      "orginal_price": 3699,
+      "seling_price": 998,
+      "discount":"73%off",
+      "rating":{
+        "rate":4.1,
+        "count":"8.4k"
       }, 
       "size":"m"
     }

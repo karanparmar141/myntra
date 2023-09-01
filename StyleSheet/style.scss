@@ -12,8 +12,12 @@ body{
 a{
     text-decoration: none;
 }
-img{width: 100%;}
-.fs-13{font-size: 13px;}
+img{width: 100%;
+    cursor: pointer;
+}
+.fs-13{font-size: 13px;
+
+}
 .bg-light {
     --bs-bg-opacity: 1;
     background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important
@@ -21,12 +25,9 @@ img{width: 100%;}
 .pink{
     background-color: #efadce;
 }
-.w-25{
-    height: 50px;
-    width: 50px;
-    border-radius: 100%;
+.pointer{
+    cursor: pointer;
 }
 
-.letters-2{
-    letter-spacing: 2px;
-}
+
+

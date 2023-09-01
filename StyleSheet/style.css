@@ -18,6 +18,7 @@ a {
 
 img {
   width: 100%;
+  cursor: pointer;
 }
 
 .fs-13 {
@@ -33,12 +34,6 @@ img {
   background-color: #efadce;
 }
 
-.w-25 {
-  height: 50px;
-  width: 50px;
-  border-radius: 100%;
-}
-
-.letters-2 {
-  letter-spacing: 2px;
+.pointer {
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
