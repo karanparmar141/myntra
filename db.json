@@ -122,11 +122,11 @@
 
     {
       "id": 6,
-      "img1": "img/p4(1).avif",
-      "img2": "img/p4(2).avif",
-      "img3": "img/p4(3).avif",
-      "img4": "img/p4(4).avif",
-      "img5": "img/p4(5).avif",
+      "img1": "",
+      "img2": "",
+      "img3": "",
+      "img4": "",
+      "img5": "",
       "prodcuts_name": "Nike",
       "brand":"biba",
       "gender":"woman",
@@ -222,11 +222,11 @@
     },
     {
       "id": 11,
-      "img1": "img/p4(1).avif",
-      "img2": "img/p4(2).avif",
-      "img3": "img/p4(3).avif",
-      "img4": "img/p4(4).avif",
-      "img5": "img/p4(5).avif",
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17932254/2022/5/12/4be8baea-c808-42d5-8f70-0db0f10bf3a61652343454751-Varanga-Women-Kurta-Sets-3301652343454044-1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17932254/2022/5/12/fdbc9b4a-ceb8-4a0c-9ed6-0c9334be4dcd1652343454732-Varanga-Women-Kurta-Sets-3301652343454044-2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17932254/2022/5/12/52316325-14d7-4055-b4e7-c093cd8d86391652343454712-Varanga-Women-Kurta-Sets-3301652343454044-3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17932254/2022/5/12/84396fd0-337c-4c64-9b00-0270ceb8adb81652343507338-Varanga-Women-Kurta-Sets-4591652343507213-4.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17932254/2022/5/12/605809be-7fdc-46e8-96a2-e6acab21ba111652343454673-Varanga-Women-Kurta-Sets-3301652343454044-5.jpg",
       "prodcuts_name": "varanga",
       "brand":"biba",
       "gender":"woman",
@@ -297,6 +297,46 @@
       "rating":{
         "rate":4.1,
         "count":"8.4k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 14,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "KALINI",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Yoke Design Kurta Set",
+      "orginal_price": 3699,
+      "seling_price": 961,
+      "discount":"74%off",
+      "rating":{
+        "rate":4.1,
+        "count":"20.9k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 15,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "Indo Era",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Yoke Design Kurta with Palazzos With Dupatta",
+      "orginal_price": 3999,
+      "seling_price": 959,
+      "discount":"76%off",
+      "rating":{
+        "rate":4.3,
+        "count":"5.9k"
       }, 
       "size":"m"
     }
