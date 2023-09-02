@@ -4,6 +4,17 @@
   box-sizing: border-box;
 }
 
+.container {
+  max-width: 1140px;
+  margin: auto;
+}
+
+.col-11 {
+  width: 11.11%;
+=======
+  outline: none;
+}
+
 body {
   font-family: "Assistant";
 }
@@ -21,19 +32,31 @@ img {
   cursor: pointer;
 }
 
-.fs-13 {
-  font-size: 13px;
+.fs-14 {
+  font-size: 14px;
 }
 
 .bg-light {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
-
 .pink {
   background-color: #efadce;
 }
 
 .pointer {
   cursor: pointer;
-}/*# sourceMappingURL=style.css.map */
+
+.py-100 {
+  padding: 100px 0px;
+}
+
+.fixed {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.ls-2 {
+  letter-spacing: 2px;
