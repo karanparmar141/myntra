@@ -11,4 +11,46 @@
 
 .col-11 {
   width: 11.11%;
+=======
+  outline: none;
+}
+
+body {
+  font-family: "Assistant";
+}
+
+:root {
+  --bs-light-rgb: 235, 236, 237;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.bg-light {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.py-100 {
+  padding: 100px 0px;
+}
+
+.fixed {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.ls-2 {
+  letter-spacing: 2px;
 }/*# sourceMappingURL=style.css.map */
