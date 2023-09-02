@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>myntra : MEN</title>
+    <style>
+        @import url(../StyleSheet/font_style.css);
+        @import url(../StyleSheet/bootstrap-icons.css);
+        @import url(../StyleSheet/bootstrap.min.css);
+        @import url(../StyleSheet/style.css);
+    </style>
+</head>
+
+<body>
+    <!-- header  -->
+    <header id="navbar" class=""></header>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2  p-2">
+                    <div class="category border border-2 border-bottom-0 p-2">
+                        <p
+                            class="text-uppercase fw-bold border border-2  border-start-0 border-end-0 py-1 border-danger">
+                            categories</p>
+                        <form id="categories" class="ps-3">
+                            <div class="my-1">
+                                <input type="checkbox" name="all" id="all" class="form-check-input">
+                                <label class="ms-1 text-capitalize"> : all</label>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="brand border border-top-0 p-2">
+                        <p
+                            class="text-uppercase fw-bold border border-2  border-start-0 border-end-0 py-1 border-danger">
+                            brand</p>
+                        <form id="brand" class="ps-3">
+
+                        </form>
+                    </div>
+                    <div class="price border border-top-0 p-2">
+                        <p class="text-uppercase fw-bold border border-2  border-start-0 border-end-0 py-1 border-danger">price</p>
+                        <form id="price"  class="mx-4">
+                            <input type="number" id="minPrice" placeholder="min price" class="col-10 text-capitalize fw-bold my-2 border-top-0 border-end-0 border-start-0 border-danger">
+                            <input type="number" id="maxPrice" placeholder="max Price" class="col-10 text-capitalize fw-bold my-2 border-top-0 border-end-0 border-start-0 border-danger">
+
+                            <button type="submit" class="btn btn-danger col-10">Apply Filters</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-9 col-12 p-1">
+                    <div id="pro" class="row">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div id="gant"></div>
+</body>
+
+<script src="../Script/bootstrap.min.js"></script>
+<script type="module" src="../Script/prodcuts.js"></script>
+<script type="module" src="../Script/men.js"></script>
+
+
+</html>
