@@ -24,9 +24,11 @@
       "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15068346/2021/8/25/5fb0ec2d-ea5c-41f6-af80-cdcdb32b0b451629892516186-GANT-Men-Blue-Black-Colourblocked-Puffer-Jacket-121629892515-4.jpg",
       "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15068346/2021/8/25/bc32fd59-0b77-4ad2-b092-0b0ef8e600851629892516208-GANT-Men-Blue-Black-Colourblocked-Puffer-Jacket-121629892515-3.jpg",
       "prodcuts_name": "gant",
-      "prodcuts_catagary": "jacket",
-      "orginal_price":22999 ,
-      "seling_price":  9199,
+      "brand":"gant",
+      "prodcuts_catagary": "jackets",
+      "gender":"male",
+      "seling_price":22999 ,
+      "orginal_price":  9199,
       "discount":"60% off",
       "rating":{
         "rate":4.5,
@@ -36,75 +38,199 @@
     },
     {
       "id": 2,
-      "img1": "img/p2(1).avif",
-      "img2": "img/p2(2).webp",
-      "img3": "img/p2(3).webp",
-      "img4": "img/p2(4).avif",
-      "img5": "img/p2(5).webp",
-      "prodcuts_name": "HRX by Hrithik Roshan",
-      "prodcuts_catagary": "HRX by Hrithik Roshan Flip Flops",
-      "orginal_price": 1999,
-      "seling_price": 699,
-      "discount":"1300off",
+
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23365004/2023/8/3/a11db887-d412-445a-a84e-c58cbf8a204c1691056672143-Nautica-Men-Jeans-8711691056671625-1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23365004/2023/8/3/f92cb271-0510-4009-86b6-ebd8e01efd7a1691056672129-Nautica-Men-Jeans-8711691056671625-2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23365004/2023/8/3/05dd1818-7db5-4c54-a05d-0c31b269f7761691056672115-Nautica-Men-Jeans-8711691056671625-3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23365004/2023/8/3/48345206-5792-4332-b5c8-0e9c0bb3f7d61691056672103-Nautica-Men-Jeans-8711691056671625-4.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23365004/2023/8/3/480712a5-fd7c-4ffb-9b5f-132c4598b4501691056672075-Nautica-Men-Jeans-8711691056671625-6.jpg",
+      "prodcuts_name": "nautica",
+      "brand":"gant",
+      "prodcuts_deatil": "men slim fit jeans",
+      "prodcuts_catagary": "jeans",
+      "gender":"male",
+      "seling_price":1439 ,
+      "orginal_price":  3999,
+      "discount":"64% off",
       "rating":{
-        "rate":3.9,
-        "count":211
+        "rate":4,
+        "count":7
       }, 
       "size":"m"
     },
     {
-      
-        "id": 3,
-        "img1": "img/p3(1).webp",
-        "img2": "img/p3(2).avif",
-        "img3": "img/p3(3).avif",
-        "img4": "img/p3(4).webp",
-        "img5": "img/p3(5).webp",
-        "prodcuts_name": "Crocs",
-        "prodcuts_catagary": "Crocs Flip Flops",
-        "orginal_price": 4495,
-        "seling_price": 2247,
-        "discount":"50%off",
-        "rating":{
-          "rate":4.4,
-          "count":2900
-        }, 
-        "size":"m"
-      
+      "id": 3,
+
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/a5f5a946-e190-4fa2-96d3-2ccec7511f971691742784602-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/f65ef045-692a-4fbc-bb4b-2acbbe3076231691742784571-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/b91f1e11-68ab-4a9f-b90d-56eac036f5fe1691742784540-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/03cbb72a-24c6-458a-ad45-6a50402b6b531691742784510-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--4.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/a23b587a-4ed8-4117-8115-36e8d1030a851691742784480-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--5.jpg",
+      "prodcuts_name": "nautica",
+      "brand":"gant",
+      "prodcuts_deatil": "Men Pure Cotton Typography Printed T-shirt",
+      "prodcuts_catagary": "tshirt",
+      "gender":"male",
+      "seling_price":575 ,
+      "orginal_price":  1599,
+      "discount":"64% off",
+      "rating":{
+        "rate":4.4,
+        "count":9
+      }, 
+      "size":"m"
     },
     {
       "id": 4,
-      "img1": "img/p4(1).avif",
-      "img2": "img/p4(2).avif",
-      "img3": "img/p4(3).avif",
-      "img4": "img/p4(4).avif",
-      "img5": "img/p4(5).avif",
-      "prodcuts_name": "Nike",
-      "prodcuts_catagary": "Nike Flip Flops",
-      "orginal_price": 5000,
-      "seling_price": 2997,
-      "discount":"50%off",
+
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/33612335-1857-4d67-a73a-dc8594671cb01618207803024-1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/8b9c4efa-2516-4d8a-afdc-94c5a6571cbb1618207803045-2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/af27eef7-16df-4603-b71b-fafb0fe182f11618207803073-3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/50806010-a25d-4681-b99a-a93b026eda1b1618207803116-5.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/911a1442-af9d-4139-a7d0-443fe4a07b1c1618207803137-6.jpg",
+      "prodcuts_name": "gant",
+      "brand":"gant",
+      "prodcuts_deatil": "Men Yellow Regular Fit Solid Casual Shirt",
+      "prodcuts_catagary": "shirt",
+      "gender":"male",
+      "seling_price":3599 ,
+      "orginal_price":  8999,
+      "discount":"60% off",
       "rating":{
         "rate":4.4,
-        "count":161
+        "count":9
       }, 
       "size":"m"
     },
     {
       "id": 5,
-      "img1": "img/p5(1).avif",
-      "img2": "img/p5(2).webp",
-      "img3": "img/p5(3).webp",
-      "img4": "img/p5(4).webp",
-      "img5": "img/p5(5).avif",
-      "prodcuts_name": "U.S. Polo Assn.",
-      "prodcuts_catagary": "U.S. Polo Assn. Flip Flops",
-      "orginal_price": 1599,
-      "seling_price": 1399,
-      "discount":"50%off",
+
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19324180/2022/7/30/b34ed27c-5ee4-4460-a39a-a32a1ae49a1a1659189928239Sweaters1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19324180/2022/7/30/4b243dd5-9c2b-4a52-a716-a7bbd710270e1659189928261Sweaters2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19324180/2022/7/30/869cbe0c-5808-4a9f-8f5e-58a0ee299e1e1659189928254Sweaters3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19324180/2022/7/30/4b243dd5-9c2b-4a52-a716-a7bbd710270e1659189928261Sweaters2.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19324180/2022/7/30/4601fe4d-19f8-4dcd-a68c-1422de1c2ea61659189928246Sweaters4.jpg",
+      "prodcuts_name": "gant",
+      "brand":"gant",
+      "prodcuts_deatil": "Men Navy Blue & Red Colourblocked Pullover",
+      "prodcuts_catagary": "sweatshirts",
+      "gender":"male",
+      "seling_price":10499 ,
+      "orginal_price":  14999,
+      "discount":"30% off",
+      "rating":{
+        "rate":4.8,
+        "count":"9k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 6,
+
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264188/2023/5/23/ce0bd4a6-a3a9-4e69-950d-4000c4afa1221684837897752-Nautica-Men-Tshirts-9691684837897411-1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264188/2023/5/23/d23e8fb3-0e16-49a7-a0c7-bf88a488135e1684837897743-Nautica-Men-Tshirts-9691684837897411-2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264188/2023/5/23/8363d911-0e04-4a66-b999-74e1866680281684837897733-Nautica-Men-Tshirts-9691684837897411-3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264188/2023/5/23/ca75b2a8-9007-49b3-8c33-455d9238e23c1684837897722-Nautica-Men-Tshirts-9691684837897411-4.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264188/2023/5/23/872cce8a-d48a-4a6e-85df-7f7e546dd6a51684837897709-Nautica-Men-Tshirts-9691684837897411-5.jpg",
+      "prodcuts_name": "nautica",
+      "brand":"gant",
+      "prodcuts_deatil": "Men Pure Cotton Brand Logo Printed T-shirt",
+      "prodcuts_catagary": "tshirt",
+      "gender":"male",
+      "seling_price":575 ,
+      "orginal_price":  1599,
+      "discount":"64% off",
       "rating":{
         "rate":4.4,
-        "count":999
+        "count":"48"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 7,
+
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/9005667/2022/9/26/bd8d6ac9-0004-477a-bc5f-69f6325527e41664184858060HIGHLANDERMenBlueSlimFitMid-RiseCleanLookStretchableJeans1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/9005667/2022/9/26/e664041b-90e1-4f62-bc96-4649405690981664184858085HIGHLANDERMenBlueSlimFitMid-RiseCleanLookStretchableJeans2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/9005667/2022/9/26/c1ecdc4d-574f-4568-92c2-4dc84ce473f81664184858107HIGHLANDERMenBlueSlimFitMid-RiseCleanLookStretchableJeans3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/9005667/2022/9/26/c202fe75-cbda-45cc-a106-1c6dfc524e601664184858176HIGHLANDERMenBlueSlimFitMid-RiseCleanLookStretchableJeans6.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/9005667/2022/9/26/5d4b25cc-844b-4784-9815-bfcb19ba36141664184858152HIGHLANDERMenBlueSlimFitMid-RiseCleanLookStretchableJeans5.jpg",
+      "prodcuts_name": "HIGHLANDER",
+      "brand":"gant",
+      "prodcuts_deatil": "Men Blue Slim Fit Mid-Rise Clean Look Stretchable Jeans",
+      "prodcuts_catagary": "jeans",
+      "gender":"male",
+      "seling_price":649 ,
+      "orginal_price":  1299,
+      "discount":"50% off",
+      "rating":{
+        "rate":3.7,
+        "count":"6.6k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 8,
+
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18523714/2022/9/8/84b9a942-d0e6-41fe-a626-faf809369d791662622646076-Roadster-Men-Navy-Blue-Tailored-Jacket-4111662622645507-1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18523714/2022/9/8/ff9dab06-87d9-4734-9877-14e3adec31bd1662622646057-Roadster-Men-Navy-Blue-Tailored-Jacket-4111662622645507-2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18523714/2022/9/8/77145768-a5ef-47f5-9215-07a0520cb1c91662622646036-Roadster-Men-Navy-Blue-Tailored-Jacket-4111662622645507-3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18523714/2022/9/8/3bd47bdd-be84-4b31-83cf-4e41376656a41662622645992-Roadster-Men-Navy-Blue-Tailored-Jacket-4111662622645507-5.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18523714/2022/9/8/ad03d1aa-9801-461f-b3a4-6cebc021be0c1662622646016-Roadster-Men-Navy-Blue-Tailored-Jacket-4111662622645507-4.jpg",
+      "prodcuts_name": "Roadster",
+      "brand":"gant",
+      "prodcuts_deatil": "Men Navy Blue Solid Fleece Sweatshirt",
+      "prodcuts_catagary": "sweatshirts",
+      "gender":"male",
+      "seling_price":479 ,
+      "orginal_price":  999,
+      "discount":"52% off",
+      "rating":{
+        "rate":3.4,
+        "count":"85"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 9,
+
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2290039/2022/7/13/9f725478-e4a1-4220-8e30-d157a7cf2b291657698446507HIGHLANDERMenBlackTaperedFitChinos1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2290039/2022/7/13/0eadc907-eeaa-4add-9d38-62ae3efe899c1657698446516HIGHLANDERMenBlackTaperedFitChinos2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2290039/2022/7/13/d8f00f1d-11a9-42d8-addb-6c132b7aa0151657698446525HIGHLANDERMenBlackTaperedFitChinos3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2290039/2022/7/13/4135d1f1-ed99-4a61-a45e-a0d71a2339f01657698446544HIGHLANDERMenBlackTaperedFitChinos5.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2290039/2022/7/13/f8e80444-95e9-42bd-ab4e-3ae21d61b36d1657698446553HIGHLANDERMenBlackTaperedFitChinos6.jpg",
+      "prodcuts_name": "HIGHLANDER",
+      "brand":"gant",
+      "prodcuts_deatil": "Men Black Tapered Fit Chinos",
+      "prodcuts_catagary": "trousers",
+      "gender":"male",
+      "seling_price":789 ,
+      "orginal_price":  1549,
+      "discount":"49% off",
+      "rating":{
+        "rate":4,
+        "count":"17.2k  "
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 10,
+
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20528534/2023/3/29/e476a3a0-e880-4188-9df0-0508bfe8d31c1680067960195-Nautica-Men-Typography-Printed-Mid-Rise-Shorts-With-Side-Str-1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20528534/2023/3/29/3d775268-2fd5-4c99-a06f-3ebacdda86fa1680067960182-Nautica-Men-Typography-Printed-Mid-Rise-Shorts-With-Side-Str-2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20528534/2023/3/29/1f6d1522-6f47-4e42-b5a8-40d91fbe2e271680067960158-Nautica-Men-Typography-Printed-Mid-Rise-Shorts-With-Side-Str-4.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20528534/2023/3/29/4d55a0f4-bb13-4a6a-8f1d-d8227d5df8af1680067960171-Nautica-Men-Typography-Printed-Mid-Rise-Shorts-With-Side-Str-3.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20528534/2023/3/29/69c25bd8-6f9c-4e6f-bf66-f25d4aab2d541680067960145-Nautica-Men-Typography-Printed-Mid-Rise-Shorts-With-Side-Str-5.jpg",
+      "prodcuts_name": "Nautica",
+      "brand":"gant",
+      "prodcuts_deatil": "Men Brand Logo Printed Side Striped Detailed Mid Rise Swim Shorts",
+      "prodcuts_catagary": "swimbottoms",
+      "gender":"male",
+      "seling_price":1479 ,
+      "orginal_price":  3999,
+      "discount":"63% off",
+      "rating":{
+        "rate":3.1,
+        "count":"14  "
       }, 
       "size":"m"
     }

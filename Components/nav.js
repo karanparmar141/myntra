@@ -17,7 +17,7 @@ const nav=()=>{
             <a class="nav-link text-uppercase text-dark fs-14 fw-bold me-1" href="/Pages/kids.html">kids</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-uppercase fs-14 fw-bold me-1" href="/Pages/homes_living.html">HOME & living</a>
+            <a class="nav-link text-uppercase text-dark fs-14 fw-bold me-1" href="/Pages/homes_living.html">HOME & living</a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-uppercase text-dark fs-14 fw-bold me-1" href="/Pages/beauty.html">beauty</a>
@@ -27,7 +27,8 @@ const nav=()=>{
           </li>
         </ul>
         <form class="d-flex col-4">
-          <input class="form-control border-0 bg-light" type="search" placeholder="Search for prodcuts, brands and more" aria-label="Search">
+          <input id="search" class="form-control border-0 bg-light" type="search" placeholder="Search for prodcuts, brands and more" aria-label="Search">
+          <div id="results"></div>
         </form>
         <form class="d-flex">
             <a href="/Pages/signup.html" class="border-0 mx-3 bg-none text-dark text-center"><i class="bi bi-person fs-5"></i><h6 class="fs-14 fw-bold text-uppercase">profile</h6></a>
