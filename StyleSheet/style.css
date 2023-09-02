@@ -29,6 +29,7 @@ a {
 
 img {
   width: 100%;
+  cursor: pointer;
 }
 
 .fs-14 {
@@ -39,6 +40,12 @@ img {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
+.pink {
+  background-color: #efadce;
+}
+
+.pointer {
+  cursor: pointer;
 
 .py-100 {
   padding: 100px 0px;
@@ -53,4 +60,3 @@ img {
 
 .ls-2 {
   letter-spacing: 2px;
-}/*# sourceMappingURL=style.css.map */

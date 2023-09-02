@@ -59,7 +59,25 @@
       "size":"m"
     },
     {
-      "id": 3,
+      
+        "id": 3,
+        "img1": "img/p3(1).webp",
+        "img2": "img/p3(2).avif",
+        "img3": "img/p3(3).avif",
+        "img4": "img/p3(4).webp",
+        "img5": "img/p3(5).webp",
+        "prodcuts_name": "Crocs",
+        "prodcuts_catagary": "Flip_Flops",
+        "orginal_price": 4495,
+        "seling_price": 2247,
+        "discount":"50%off",
+        "rating":{
+          "rate":4.4,
+          "count":2900
+        }, 
+        "size":"m"
+      
+      "id": 4,
 
       "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/a5f5a946-e190-4fa2-96d3-2ccec7511f971691742784602-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--1.jpg",
       "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/f65ef045-692a-4fbc-bb4b-2acbbe3076231691742784571-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--2.jpg",
@@ -81,7 +99,7 @@
       "size":"m"
     },
     {
-      "id": 4,
+      "id": 5,
 
       "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/33612335-1857-4d67-a73a-dc8594671cb01618207803024-1.jpg",
       "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/8b9c4efa-2516-4d8a-afdc-94c5a6571cbb1618207803045-2.jpg",
@@ -103,7 +121,7 @@
       "size":"m"
     },
     {
-      "id": 5,
+      "id": 6,
 
       "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19324180/2022/7/30/b34ed27c-5ee4-4460-a39a-a32a1ae49a1a1659189928239Sweaters1.jpg",
       "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19324180/2022/7/30/4b243dd5-9c2b-4a52-a716-a7bbd710270e1659189928261Sweaters2.jpg",
@@ -125,7 +143,7 @@
       "size":"m"
     },
     {
-      "id": 6,
+      "id": 7,
 
       "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264188/2023/5/23/ce0bd4a6-a3a9-4e69-950d-4000c4afa1221684837897752-Nautica-Men-Tshirts-9691684837897411-1.jpg",
       "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264188/2023/5/23/d23e8fb3-0e16-49a7-a0c7-bf88a488135e1684837897743-Nautica-Men-Tshirts-9691684837897411-2.jpg",
@@ -147,7 +165,7 @@
       "size":"m"
     },
     {
-      "id": 7,
+      "id": 8,
 
       "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/9005667/2022/9/26/bd8d6ac9-0004-477a-bc5f-69f6325527e41664184858060HIGHLANDERMenBlueSlimFitMid-RiseCleanLookStretchableJeans1.jpg",
       "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/9005667/2022/9/26/e664041b-90e1-4f62-bc96-4649405690981664184858085HIGHLANDERMenBlueSlimFitMid-RiseCleanLookStretchableJeans2.jpg",
@@ -169,7 +187,7 @@
       "size":"m"
     },
     {
-      "id": 8,
+      "id": 9,
 
       "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18523714/2022/9/8/84b9a942-d0e6-41fe-a626-faf809369d791662622646076-Roadster-Men-Navy-Blue-Tailored-Jacket-4111662622645507-1.jpg",
       "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18523714/2022/9/8/ff9dab06-87d9-4734-9877-14e3adec31bd1662622646057-Roadster-Men-Navy-Blue-Tailored-Jacket-4111662622645507-2.jpg",
@@ -191,7 +209,7 @@
       "size":"m"
     },
     {
-      "id": 9,
+      "id": 10,
 
       "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2290039/2022/7/13/9f725478-e4a1-4220-8e30-d157a7cf2b291657698446507HIGHLANDERMenBlackTaperedFitChinos1.jpg",
       "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2290039/2022/7/13/0eadc907-eeaa-4add-9d38-62ae3efe899c1657698446516HIGHLANDERMenBlackTaperedFitChinos2.jpg",
@@ -213,7 +231,7 @@
       "size":"m"
     },
     {
-      "id": 10,
+      "id": 11,
 
       "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20528534/2023/3/29/e476a3a0-e880-4188-9df0-0508bfe8d31c1680067960195-Nautica-Men-Typography-Printed-Mid-Rise-Shorts-With-Side-Str-1.jpg",
       "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20528534/2023/3/29/3d775268-2fd5-4c99-a06f-3ebacdda86fa1680067960182-Nautica-Men-Typography-Printed-Mid-Rise-Shorts-With-Side-Str-2.jpg",
@@ -231,6 +249,187 @@
       "rating":{
         "rate":3.1,
         "count":"14  "
+      }, 
+      "size":"m"
+    },
+
+    {
+      "id": 12,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "Nike",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Nike Flip Flops",
+      "orginal_price": 5000,
+      "seling_price": 2997,
+      "discount":"50%off",
+      "rating":{
+        "rate":4.4,
+        "count":161
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 13,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "khushal k",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "kurta with palazzos and dupatta",
+      "orginal_price": 5449,
+      "seling_price": 1416,
+      "discount":"74%off",
+      "rating":{
+        "rate":4.2,
+        "count":"9k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 14,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "singni",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta Set",
+      "orginal_price": 4999,
+      "seling_price": 1149,
+      "discount":"77%off",
+      "rating":{
+        "rate":4.1,
+        "count":"7.3k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 15,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "varanga",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Yoke Design Kurta with Trousers With Dupatta",
+      "orginal_price": 5999,
+      "seling_price": 1619,
+      "discount":"73%off",
+      "rating":{
+        "rate":4,
+        "count":"2.6k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 16,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "anayna",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Printed Kurta with Trousers",
+      "orginal_price": 3098,
+      "seling_price": 1146,
+      "discount":"63%off",
+      "rating":{
+        "rate":4.5,
+        "count":"4k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 17,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "varanga",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta Set",
+      "orginal_price": 5999,
+      "seling_price": 1379,
+      "discount":"77%off",
+      "rating":{
+        "rate":4.2,
+        "count":"3.5k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 18,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "Indo Era",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta with Trousers With Dupatta",
+      "orginal_price": 6999,
+      "seling_price": 1679,
+      "discount":"76%off",
+      "rating":{
+        "rate":4.2,
+        "count":"3k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 19,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "Indo Era",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta with Trousers With Dupatta",
+      "orginal_price": 6999,
+      "seling_price": 1679,
+      "discount":"76%off",
+      "rating":{
+        "rate":4.2,
+        "count":"3k"
+      }, 
+      "size":"m"
+    },
+    {
+      "id": 20,
+      "img1": "img/p4(1).avif",
+      "img2": "img/p4(2).avif",
+      "img3": "img/p4(3).avif",
+      "img4": "img/p4(4).avif",
+      "img5": "img/p4(5).avif",
+      "prodcuts_name": "KALINI",
+      "brand":"biba",
+      "gender":"woman",
+      "prodcuts_catagary": "Women Embroidered Kurta Set",
+      "orginal_price": 3699,
+      "seling_price": 998,
+      "discount":"73%off",
+      "rating":{
+        "rate":4.1,
+        "count":"8.4k"
       }, 
       "size":"m"
     }
