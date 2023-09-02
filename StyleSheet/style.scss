@@ -2,8 +2,17 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    outline: none;
 }
+.container{
+    max-width: 1140px;
+    margin: auto;}
+// :root{
+    
+// }
+.col-11{
+    width: 11.11%;
+}
+
 body{
     font-family: 'Assistant';
 }
@@ -31,4 +40,3 @@ img{width: 100%;}
 .ls-2{
     letter-spacing: 2px;
 }
-

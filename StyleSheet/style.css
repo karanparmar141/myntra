@@ -2,6 +2,16 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+}
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+}
+
+.col-11 {
+  width: 11.11%;
+=======
   outline: none;
 }
 
