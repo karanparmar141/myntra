@@ -33,7 +33,7 @@ const nav=()=>{
         <form class="d-flex">
             <a href="/Pages/signup.html" class="border-0 mx-3 bg-none text-dark text-center"><i class="bi bi-person fs-5"></i><h6 class="fs-14 fw-bold text-uppercase">profile</h6></a>
             <a href="#" class="border-0 mx-3 bg-none text-dark text-center"><i class="bi bi-heart fs-5"></i><h6 class="fs-14 fw-bold text-uppercase">wishlist</h6></a>
-            <a href="#" class="border-0 mx-3 bg-none text-dark text-center"><i class="bi bi-bag fs-5"></i><h6 class="fs-14 fw-bold text-uppercase">bags</h6></a>
+            <a href="/pages/bag.html" class="border-0 mx-3 bg-none text-dark text-center"><i class="bi bi-bag fs-5"></i><h6 class="fs-14 fw-bold text-uppercase">bags</h6></a>
         </form>
       </div>
     </div>

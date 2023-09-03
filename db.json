@@ -12,6 +12,12 @@
       "email": "aksharcreation8@gmail.com",
       "password": "63546457ghfy",
       "id": 2
+    },
+    {
+      "name": "karan",
+      "email": "janaak151513225@gmail.com",
+      "password": "123456789",
+      "id": 3
     }
   ],
   "prodcuts": [
@@ -1147,7 +1153,172 @@
       "size": "m"
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "id": 1,
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24641866/2023/8/25/044d4fde-c72c-40f0-9ec6-8937e9da3bb41692936873302V-MartUnisexKidsBlueWhiteStripedT-shirtwithShorts1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24641866/2023/8/25/dd6dfb34-ad37-4b3a-a3f3-11586522ab141692936873353V-MartUnisexKidsBlueWhiteStripedT-shirtwithShorts2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24641866/2023/8/25/20bbc8b8-32b6-4cd4-a857-219d43c33c6a1692936873320V-MartUnisexKidsBlueWhiteStripedT-shirtwithShorts3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24641866/2023/8/25/4646c146-118f-43d9-8b3e-82dbcc500b4e1692936873252V-MartUnisexKidsBlueWhiteStripedT-shirtwithShorts4.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24641866/2023/8/25/1690f976-e0c2-4ecd-b3af-42dfe43c775d1692936873337V-MartUnisexKidsBlueWhiteStripedT-shirtwithShorts7.jpg",
+      "prodcuts_name": "V-Mart",
+      "prodcuts_detail": "Boys Striped Printed Pure Cotton T-shirt With Shorts",
+      "prodcuts_catagary": "t-shirt",
+      "gender": "boys",
+      "seling_price": 199,
+      "orginal_price": 199,
+      "discount": "60% off",
+      "rating": {
+        "rate": 4.5,
+        "count": 2200
+      },
+      "size": "2-3y"
+    },
+    {
+      "id": 6,
+      "img1": "https://assets.myntassets.com/w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2023/7/30/9db9a002-32a1-4e21-b2b6-e515320dda1b1690712377681-image_png117553172.png",
+      "img2": "https://assets.myntassets.com/w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2023/7/30/9db9a002-32a1-4e21-b2b6-e515320dda1b1690712377681-image_png117553172.png",
+      "img3": "https://assets.myntassets.com/w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2023/7/30/9db9a002-32a1-4e21-b2b6-e515320dda1b1690712377681-image_png117553172.png",
+      "img4": "https://assets.myntassets.com/w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2023/7/30/9db9a002-32a1-4e21-b2b6-e515320dda1b1690712377681-image_png117553172.png",
+      "img5": "https://assets.myntassets.com/w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2023/7/30/9db9a002-32a1-4e21-b2b6-e515320dda1b1690712377681-image_png117553172.png",
+      "prodcuts_name": "Nike",
+      "brand": "biba",
+      "gender": "woman",
+      "prodcuts_detail": "nike flip flops for women",
+      "prodcuts_catagary": "Nike Flip Flops",
+      "orginal_price": 5000,
+      "seling_price": 2997,
+      "discount": "50%off",
+      "rating": {
+        "rate": 4.4,
+        "count": 161
+      },
+      "size": "m"
+    },
+    {
+      "id": 2,
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15334348/2021/9/1/d784aa9b-15a9-41e0-86d1-a9cba85591e71630509125052BonOrganikBoysWhitePrintedV-NeckAppliqueT-shirt1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15334348/2021/9/1/e416acac-6366-4ec3-b2a4-b1626489c2361630509125046BonOrganikBoysWhitePrintedV-NeckAppliqueT-shirt2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15334348/2021/9/1/487e22ad-a23c-48a9-8ba2-271a5bfe4cf91630509124713BonOrganikBoysWhitePrintedV-NeckAppliqueT-shirt3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15334348/2021/9/1/487e22ad-a23c-48a9-8ba2-271a5bfe4cf91630509124713BonOrganikBoysWhitePrintedV-NeckAppliqueT-shirt3.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15334348/2021/9/1/487e22ad-a23c-48a9-8ba2-271a5bfe4cf91630509124713BonOrganikBoysWhitePrintedV-NeckAppliqueT-shirt3.jpg",
+      "prodcuts_name": "BonOrganik",
+      "prodcuts_detail": "Boys White Graphic Printed Round-Neck T-shirt",
+      "prodcuts_catagary": "t-shirt",
+      "gender": "boys",
+      "seling_price": 299,
+      "orginal_price": 1164,
+      "discount": "865$",
+      "rating": {
+        "rate": 4.4,
+        "count": 2200
+      },
+      "size": "6-7y"
+    },
+    {
+      "id": 3,
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23482486/2023/5/30/fda79e6c-24f6-4182-a951-b0a185b105121685467015975ClothingSet1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23482486/2023/5/30/ba12d17b-762d-4f0e-b787-5222451a42131685467015984ClothingSet2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23482486/2023/5/30/7c5e8f72-50dc-4005-b46f-f01fdb6540471685467015951ClothingSet3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23482486/2023/5/30/bbe1fda2-6110-436f-b163-016796d63d8f1685467015964ClothingSet4.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23482486/2023/5/30/d572e0d8-ef24-4e75-b7f3-caa99706d6e81685467016011ClothingSet5.jpg",
+      "prodcuts_name": "ariel",
+      "prodcuts_detail": "Infant Boys Printed Pure Cotton T-Shirt With Shorts",
+      "prodcuts_catagary": "T-Shirt With Shorts",
+      "gender": "boys",
+      "seling_price": 349,
+      "orginal_price": 699,
+      "discount": "350$",
+      "rating": {
+        "rate": 4.5,
+        "count": 2200
+      },
+      "size": "6-9m"
+    },
+    {
+      "id": 5,
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23964982/2023/7/11/352811df-2f1b-49f2-97c2-441fa41325811689058727931CutiekinsEmbroidedKurtaanddhotiPantSet-DarkPeachGolden1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23964982/2023/7/11/28b0036f-6e12-434a-9f95-6d33ecc889951689058727963CutiekinsEmbroidedKurtaanddhotiPantSet-DarkPeachGolden2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23964982/2023/8/11/463e362a-961b-466e-8166-9a632eac8c3b1691734530902-Cutiekins-Girls-Round-Neck-Self-Design-Gotta-Patti-Bell-Slee-6.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23964982/2023/7/11/1df02bc6-0380-49d8-b651-cc68fba0352d1689058727945CutiekinsEmbroidedKurtaanddhotiPantSet-DarkPeachGolden5.jpgc",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23964982/2023/7/11/05568c9b-d92f-43d1-9e90-51b841e089f71689058727914CutiekinsEmbroidedKurtaanddhotiPantSet-DarkPeachGolden4.jpg",
+      "prodcuts_name": " Cutiekins",
+      "prodcuts_detail": "Girls Round Neck Self Design Gotta Patti Bell Sleeve Kurta with Dhoti Pants",
+      "prodcuts_catagary": " Kurta with Dhoti Pants",
+      "gender": "boys",
+      "seling_price": 299,
+      "orginal_price": 999,
+      "discount": "700$",
+      "rating": {
+        "rate": 3.6,
+        "count": 2200
+      },
+      "size": "6-8y"
+    },
+    {
+      "id": 11,
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22858200/2023/4/27/190af50d-4a62-42b2-93f6-aca26ae7c5961682582082917-Anaya-Womens-Cotton-Straight-Sleeveless-Suit-Set-46116825820-1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22858200/2023/4/27/9c326cec-a1c6-4d38-bec8-f47838676d0e1682582082904-Anaya-Womens-Cotton-Straight-Sleeveless-Suit-Set-46116825820-2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22858200/2023/4/27/1b27db26-ba1b-40cf-abb8-7cdfc00054511682582082893-Anaya-Womens-Cotton-Straight-Sleeveless-Suit-Set-46116825820-3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22858200/2023/4/27/fc9e239a-19f0-4ccb-9ad2-6f42d74a0b741682582082884-Anaya-Womens-Cotton-Straight-Sleeveless-Suit-Set-46116825820-4.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22858200/2023/4/27/4b7e52cf-2a8a-4519-b25d-960c3d62c5c11682582082870-Anaya-Womens-Cotton-Straight-Sleeveless-Suit-Set-46116825820-5.jpg",
+      "prodcuts_name": "anayna",
+      "brand": "biba",
+      "gender": "woman",
+      "prodcuts_detail": "Women Printed Kurta with Trousers",
+      "prodcuts_catagary": "kurti",
+      "orginal_price": 3098,
+      "seling_price": 1146,
+      "discount": "63%off",
+      "rating": {
+        "rate": 4.5,
+        "count": "4k"
+      },
+      "size": "m"
+    },
+    {
+      "id": 49,
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/a5f5a946-e190-4fa2-96d3-2ccec7511f971691742784602-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/f65ef045-692a-4fbc-bb4b-2acbbe3076231691742784571-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/b91f1e11-68ab-4a9f-b90d-56eac036f5fe1691742784540-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/03cbb72a-24c6-458a-ad45-6a50402b6b531691742784510-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--4.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21264368/2023/8/11/a23b587a-4ed8-4117-8115-36e8d1030a851691742784480-Nautica-Men-Navy-Blue--White-Typography-Printed-Pure-Cotton--5.jpg",
+      "prodcuts_name": "nautica",
+      "brand": "gant",
+      "prodcuts_deatil": "Men Pure Cotton Typography Printed T-shirt",
+      "prodcuts_catagary": "tshirt",
+      "gender": "male",
+      "seling_price": 575,
+      "orginal_price": 1599,
+      "discount": "64% off",
+      "rating": {
+        "rate": 4.4,
+        "count": 9
+      },
+      "size": "m"
+    },
+    {
+      "id": 50,
+      "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/33612335-1857-4d67-a73a-dc8594671cb01618207803024-1.jpg",
+      "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/8b9c4efa-2516-4d8a-afdc-94c5a6571cbb1618207803045-2.jpg",
+      "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/af27eef7-16df-4603-b71b-fafb0fe182f11618207803073-3.jpg",
+      "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/50806010-a25d-4681-b99a-a93b026eda1b1618207803116-5.jpg",
+      "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/12/911a1442-af9d-4139-a7d0-443fe4a07b1c1618207803137-6.jpg",
+      "prodcuts_name": "gant",
+      "brand": "gant",
+      "prodcuts_deatil": "Men Yellow Regular Fit Solid Casual Shirt",
+      "prodcuts_catagary": "shirt",
+      "gender": "male",
+      "seling_price": 3599,
+      "orginal_price": 8999,
+      "discount": "60% off",
+      "rating": {
+        "rate": 4.4,
+        "count": 9
+      },
+      "size": "m"
+    }
+  ],
   "buy_deatil": [
     {
       "contact": {
