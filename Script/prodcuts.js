@@ -159,16 +159,26 @@ const getpro = (prodcuts) => {
     .then((data) => { ui(data) })
 }
 
+
+const brapro = (brand) => {
+  console.log(brand)
+  // fetch(`http://localhost:3000/prodcuts?brand=${brand}`)
+  //   .then((res) => res.json())
+  //   .then((data) => { ui(data) })
+}
+
+
+
 const allpro = () => {
   fetch(`http://localhost:3000/prodcuts`)
     .then((res) => res.json())
-    .then((data) => { allui(data) })
+    .then((data) => { ui(data) })
 }
 
 // brand 
 
 
-let brand = ["gant", "android"];
+let brand = [ "android","gant","test"];
 
 for (let i = 0; i < brand.length; i++) {
   let input = document.createElement("input");
@@ -185,9 +195,7 @@ for (let i = 0; i < brand.length; i++) {
 }
 
 for (let i = 0; i < brand.length; i++) {
-  document
-    .getElementById(brand[i])
-    .addEventListener("click", () => getpro(brand[i]));
+  document.getElementById(brand[i]).addEventListener("click", ()=>brapro(brand[i]));
 }
 
 // categories
@@ -230,6 +238,7 @@ document.getElementById("price").addEventListener("submit",(e)=>{
       const price = data.filter(product => {
         return product.orginal_price >= minprice && product.orginal_price <= maxprice;
       });
+      console.log(price)
       ui(price)
     })
 })

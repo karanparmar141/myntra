@@ -91,9 +91,9 @@ const menpro=(prodcuts)=>{
     console.log(data)
     ui(data)
   })
-  // setTimeout(
-  //   window.location.href="prodcuts.html"
-  //   , 2000);
+  setTimeout(
+    window.location.href="prodcuts.html"
+    , 2000);
 }
 
-  document.getElementById("gant").addEventListener("click",()=>menpro("gant"))
+  document.getElementById("gant1").addEventListener("click",()=>menpro("gant"))
