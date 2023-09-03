@@ -152,7 +152,6 @@ const ui = (data) => {
   })
 }
 
-
 const getpro = (prodcuts) => {
   console.log(prodcuts)
   fetch(`http://localhost:3000/prodcuts?prodcuts_catagary=${prodcuts}`)
@@ -201,7 +200,7 @@ for (let i = 0; i < brand.length; i++) {
 
 // categories
 
-let cat = ["tshirt", "shirt", "jackets", "sweaters", "trousers", "jeans", "sweatshirts","swimbottoms"];
+let cat = ["tshirt", "shirt", "jackets", "sweaters", "trousers", "jeans", "sweatshirts","swimbottoms","Nike Flip Flops","kurti","sarees"];
 
 
 for (let i = 0; i < cat.length; i++) {
