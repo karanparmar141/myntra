@@ -6,9 +6,7 @@
 .container{
     max-width: 1140px;
     margin: auto;}
-// :root{
-    
-// }
+
 .col-11{
     width: 11.11%;
 }
@@ -22,12 +20,25 @@ body{
 a{
     text-decoration: none;
 }
+img{width: 100%;
+    cursor: pointer;
+}
+.fs-13{font-size: 13px;}
 img{width: 100%;}
 .fs-14{font-size: 14px;}
 .bg-light {
     --bs-bg-opacity: 1;
     background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important
 }
+.pink{
+    background-color: #efadce;
+}
+.pointer{
+    cursor: pointer;
+}
+
+
+
 .py-100{
     padding: 100px 0px;
 }
