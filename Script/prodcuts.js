@@ -384,7 +384,7 @@ allpro()
 // brand 
 
 
-let brand = ["android", "gant", "test"];
+let brand = ["biba", "gant", "here"];
 
 for (let i = 0; i < brand.length; i++) {
   let input = document.createElement("input");

@@ -84,7 +84,7 @@ document.getElementById("email").addEventListener("keypress",()=>{
       document.getElementById("n_err").innerHTML=``
       document.getElementById("n_err").classList.add("text-primary")
       document.getElementById("n_err").classList.remove("text-danger")
-      document.getElementById("name").classList.add("border-primary")
+      document.getElementById("name").classList.add("border-danger")
       document.getElementById("name").classList.remove("border-danger")
       document.getElementById("name").classList.remove("text-danger")
       document.getElementById("name").classList.add("text-primary")
