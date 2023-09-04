@@ -1,6 +1,11 @@
 import nav from "../Components/nav.js";
 document.getElementById("navbar").innerHTML=nav();
 
+
+import foot from "../Components/footer.js";
+document.getElementById("footer").innerHTML=foot();
+
+
 // $(window).scroll(function () {
 //     if ($(window).scrollTop() > 500) {
 //       $("header").addClass("fixed")
@@ -95,5 +100,5 @@ const menpro=(prodcuts)=>{
     window.location.href="prodcuts.html"
     , 2000);
 }
-
   document.getElementById("gant1").addEventListener("click",()=>menpro("gant"))
+  document.getElementById("img").addEventListener("click"),()=>{window.location.href="prodcuts.hmtl"}

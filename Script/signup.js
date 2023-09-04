@@ -28,7 +28,8 @@ const sign =(e)=>{
         }
     })
 }
-document.getElementById("sign-page").addEventListener("submit",sign)    
+document.getElementById("sign-page").addEventListener("submit",sign)
+    
 document.getElementById("email").addEventListener("keypress",()=>{
     let email=document.getElementById("email").value
     let e_pattern = /^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/;
