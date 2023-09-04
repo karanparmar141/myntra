@@ -1,7 +1,7 @@
 const nav=()=>{
     return`<nav class="navbar navbar-expand-lg py-3">
     <div class="container">
-      <a class="navbar-brand col-1" href="#"><img src="/img/myntra_logo.png" alt="myntra" class="col-lg-5 col-12"></a>
+      <a class="navbar-brand col-1" href="/index.html"><img src="/img/myntra_logo.png" alt="myntra" class="col-lg-5 col-12"></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSup  portedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>

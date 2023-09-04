@@ -1320,19 +1320,6 @@
     }
   ],
   "buy_deatil": [
-    {
-      "contact": {
-        "name": "user",
-        "mobile": "+91 9876543210"
-      },
-      "address": {
-        "pincode": 123456,
-        "address": "house no , building , street , area",
-        "town": "katragam",
-        "city": "surat",
-        "state": "gujart"
-      },
-      "payment": {}
-    }
+    
   ]
 }

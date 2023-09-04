@@ -1,8 +1,17 @@
-let p=0
+import nav from "../Components/nav.js";
+document.getElementById("navbar").innerHTML = nav();
 
+import foot from "../Components/footer.js";
+document.getElementById("footer").innerHTML=foot();
+
+
+
+let p = 0
+let total = 0
+let subtotal = 0
 const ui = (data) => {
 
-  document.getElementById("bag").innerHTML=``
+  // document.getElementById("bag").innerHTML=``
   data.map((prodcut) => {
     p += 1
 
@@ -147,11 +156,11 @@ const ui = (data) => {
     let buybtn = document.createElement("button")
     buybtn.innerHTML = "buy now"
     buybtn.classList.add("btn", "btn-outline-primary", "fw-semibold", "col-12", "text-uppercase")
-    buybtn.addEventListener("click", () => addcartfn(prodcut))
-    
-    let s=document.createElement("div")
+    buybtn.addEventListener("click", () => totalpro(prodcut.seling_price))
+
+    let s = document.createElement("div")
     s.classList.add("fw-semibold", "fs-6", "m-0", "ps-3")
-    s.innerHTML=`<label for="size">size : </label>
+    s.innerHTML = `<label for="size">size : </label>
     <select name="size" id="size" class="my-2 py-1 px-3 rounded-3 border-danger text-danger fw-semibold text-capitalize">
         <option value="m" >m</option>
         <option value="l">l</option>
@@ -160,27 +169,102 @@ const ui = (data) => {
         <option value="xxl">xxl</option>
     </select>`
 
-    let pdeatail=document.createElement("p")
-    pdeatail.innerHTML=`<p  class="m-0">Best Price: Rs. ${prodcut.seling_price}</p>
+    let pdeatail = document.createElement("p")
+    pdeatail.innerHTML = `<p  class="m-0">Best Price: Rs. ${prodcut.seling_price}</p>
     <ui>
       <li>Applicable on: Orders above Rs. 1099 (only on first purchase)</li>
       <li>Coupon code: MYNTRA200</li>
     </ui>`
     let card = document.createElement("div")
-    card.classList.add("card","col-9", "border-0", "text-enter")
-    card.append(cardtitle, rate, cardcat, margeprice ,s,pdeatail,buybtn)
+    card.classList.add("card", "col-9", "border-0", "text-enter")
+    card.append(cardtitle, rate, cardcat, margeprice, s, pdeatail, buybtn)
     let div = document.createElement("div")
-    div.classList.add("col-12", "my-2","row", "p-2", "shadow")
-    div.append(cardimg,card)
+    div.classList.add("col-12", "my-2", "row", "p-2", "shadow")
+    div.append(cardimg, card)
 
-    document.getElementById("bag").append(div)
+    document.getElementById("bags").append(div)
   })
+  total = subtotal
 }
-  
-  let get = () => {
-    fetch("http://localhost:3000/cart")
-    .then((res)=>res.json())
-    .then((data)=>{ui(data)})
+
+let get = () => {
+  fetch("http://localhost:3000/cart")
+    .then((res) => res.json())
+    .then((data) => { ui(data) })
+};
+
+get();
+
+document.getElementById("appnow").addEventListener("click", () => {
+  document.getElementById("appnoe").classList.add("btn-outline-success")
+})
+let totalpro = (prodcutprice) => {
+  console.log(prodcutprice)
+  fetch(`http://localhost:3000/cart?seling_price=${prodcutprice}`)
+    .then((res) => res.json())
+    .then((data) => {
+      document.getElementById("mrp").innerHTML = `Total MRP = ₹  ${data[0].seling_price}`
+      document.getElementById("dismrp").innerHTML = `Total MRP = ₹  ${data[0].seling_price}`
+      document.getElementById("coupons").innerHTML = `coupons MRP = ₹ 200`
+      document.getElementById("convfee").innerHTML = `convenience fee = ₹ 15`
+      document.getElementById("prototal").innerHTML = `total MRP = ₹ ${document[0].seling_price}`
+    })
+};
+
+document.getElementById("placeorder").addEventListener("click", () => {
+  document.getElementById("addres").innerHTML = `<div class="border border-1 border-muted p-3">
+  <form id="pi">
+      <label>contact details</label>
+      <input class="d-block col-12 my-2 py-2 px-3 border-top-0  border-start-0 border-end-0 border-primary text-primary fw-semibold text-capitalize" id="contact" type="number" required min="10" max="10"
+          placeholder="+91 1234567890">
+      <input class="d-block col-12 my-2 py-2 px-3 border-top-0  border-start-0 border-end-0 border-primary text-primary fw-semibold text-capitalize" id="email" type="email" required placeholder="user123@gmail.com">
+      <label>address details</label>
+      <input class="d-block col-12 my-2 py-2 px-3 border-top-0  border-start-0 border-end-0 border-primary text-primary fw-semibold text-capitalize" id="pincode" type="number" required min="6" max="6" placeholder="395004">
+      <input class="d-block col-12 my-2 py-2 px-3 border-top-0  border-start-0 border-end-0 border-primary text-primary fw-semibold text-capitalize" id="address" type="text" required
+          placeholder="address(house no, building,street,area)">
+      <input class="d-block col-12 my-2 py-2 px-3 border-top-0  border-start-0 border-end-0 border-primary text-primary fw-semibold text-capitalize" id="town" type="text" required placeholder="locality/town">
+      <input class="d-block col-12 my-2 py-2 px-3 border-top-0  border-start-0 border-end-0 border-primary text-primary fw-semibold text-capitalize" id="city" type="text" placeholder="city">
+      <input class="d-block col-12 my-2 py-2 px-3 border-top-0  border-start-0 border-end-0 border-primary text-primary fw-semibold text-capitalize" id="state" type="text" placeholder="state">
+      <input type="submit" id="addadres" value="add address" class="btn btn-outline-primary text-uppercase fw-bold col-12 mb-4">
+  </form>
+</div>`
+})
+
+// addd 
+
+
+const addadresform = (e) => {
+  e.preventDefault();
+
+  let address = {
+    contact: {
+      contactn: document.getElementById("contact").value,
+      email: document.getElementById("email").value
+    },
+    address: {
+      password: document.getElementById("pincode").value,
+      address: document.getElementById("address").value,
+      town: document.getElementById("town").value,
+      city: document.getElementById("city").value,
+      state: document.getElementById("state").value
+    }
   };
-  
-  get();
+  fetch(`http://localhost:3000/buy_deatil?address=${address.address.address}&contactn=${address.contact.contactn}`)
+    .then((res) => res.json())
+    .then((data) => {
+      if (data.length > 0) {
+        alert("user is already address avliable");
+      }
+      else {
+        setTimeout(
+          window.location.href = "/pages/index.html", 1000
+        )
+        fetch("http://localhost:3000/buy_deatil", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(address)
+        })
+      }
+    })
+}
+document.getElementById("pi").addEventListener("submit", addadresform)
