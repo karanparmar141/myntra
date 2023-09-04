@@ -94,3 +94,11 @@ fetch('http://localhost:3000/prodcuts')
         }
     })
 })
+
+
+const menpro=()=>{
+  setTimeout(
+    window.location.href="prodcuts.html"
+    , 2000);
+}
+  document.getElementById("img").addEventListener("click",menpro)

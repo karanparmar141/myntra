@@ -88,16 +88,9 @@ const ui=(data)=>{
   
   
   
-  const womenpro=(prodcuts)=>{
+const menpro=()=>{
+  setTimeout(
     window.location.href="prodcuts.html"
-    console.log(prodcuts)
-    fetch(`http://localhost:3000/prodcuts?brand=${prodcuts}`)
-    .then((res)=>res.json())
-    .then((data)=>{
-      ui(data)
-    })
-  }
-  
-  
-    document.getElementById("biba").addEventListener("click",()=>womenpro("biba")),
-    document.getElementById("biba").addEventListener("click",()=>womenpro("biba"))
+    , 2000);
+}
+  document.getElementById("img").addEventListener("click",menpro)
