@@ -89,6 +89,7 @@ const ui=(data)=>{
   
   
 const menpro=()=>{
+  alert("hy")
   setTimeout(
     window.location.href="prodcuts.html"
     , 2000);
